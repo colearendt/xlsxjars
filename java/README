@@ -1,0 +1,25 @@
+Sources for the open source software component jars can be obtained
+from the following project websites:
+
+- Apache POI: http://poi.apache.org/
+  Code repository: https://svn.apache.org/repos/asf/poi/tags/REL_3_10_1/
+  Source code: http://www.apache.org/dyn/closer.cgi/poi/release/src/poi-src-3.10.1-20140818.tar.gz
+  JAR location: http://www.apache.org/dyn/closer.cgi/poi/release/bin/poi-bin-3.10.1-20140818.tar.gz
+
+- Apache XMLBeans: http://xmlbeans.apache.org/
+  Code repository: http://svn.apache.org/viewvc/xmlbeans/tags/2.6.0/
+  JAR location: http://repo1.maven.org/maven2/org/apache/xmlbeans/xmlbeans/2.6.0/xmlbeans-2.6.0.jar
+
+- Apache Commons Codec: http://commons.apache.org/proper/commons-codec/
+  Code repository: http://svn.apache.org/viewvc/commons/proper/codec/tags/1_6/
+  JAR location: http://central.maven.org/maven2/commons-codec/commons-codec/1.6/commons-codec-1.6.jar
+
+- Dom4j: http://dom4j.sourceforge.net/dom4j-1.6.1/
+  Code repository: http://sourceforge.net/p/dom4j/code/ci/default/tree/
+  Source code: http://sourceforge.net/projects/dom4j/files/dom4j/1.6.1/dom4j-1.6.1.tar.gz/download
+  JAR location: http://sourceforge.net/projects/dom4j/files/dom4j/1.6.1/dom4j-1.6.1.jar/download
+  
+
+See also associated copyright information in inst/COPYRIGHTS.
+
+ 
