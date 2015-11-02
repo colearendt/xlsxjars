@@ -1,8 +1,8 @@
 Package: xlsxjars
 Type: Package
 Title: Package required POI jars for the xlsx package
-Version: 0.7.0
-Date: 2015-02-01
+Version: 0.8.0
+Date: 2015-11-29
 Depends: rJava
 LazyLoad: yes
 Authors@R: c(person(c("Adrian", "A."), "Dragulescu", 
@@ -14,7 +14,7 @@ Authors@R: c(person(c("Adrian", "A."), "Dragulescu",
                     Commons Codec"))        
 Description: The xlsxjars package collects all the external jars
   required for the xlxs package. This release corresponds to POI
-  3.10.1.
+  3.13.
 License: GPL-3 
 Copyright: See file COPYRIGHTS
 NeedsCompilation: no
