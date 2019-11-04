@@ -4,13 +4,17 @@ Title: Package required POI jars for the xlsx package
 Version: 0.8.0.9000
 Depends: rJava
 LazyLoad: yes
-Authors@R: c(person(c("Adrian", "A."), "Dragulescu", 
+Authors@R: c(person(c("Adrian", "A."), "Dragulescu",
+                    role = c("aut"),
+                    email = "adrian.dragulescu@gmail.com"),
+           person("Cole", "Arendt", 
                     role = c("aut", "cre"),
-                    email = "adrian.dragulescu@gmail.com"), 
-             person("The Apache Software Foundation", 
+                    email = "cole@rstudio.com"),
+           person("The Apache Software Foundation", 
                     role = c("ctb", "cph"), 
                     comment = "Apache POI, Apache XMLBeans", "Apache
-                    Commons Codec"))
+                    Commons Codec")
+           )
 Description: The xlsxjars package collects all the external jars
   required for the xlsx package. This release corresponds to POI
   4.1.1.
