@@ -1,3 +1,8 @@
 inst/make.package.R
 .gitinit
 README.md
+^.*\.Rproj$
+^\.Rproj\.user$
+^xlsxjars\.Rcheck$
+^xlsxjars.*\.tar\.gz$
+^xlsxjars.*\.tgz$
