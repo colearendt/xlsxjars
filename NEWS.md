@@ -3,7 +3,7 @@
 ## Changes in version 0.9.0
 
  - enforce line ending consistency
- - use the POI 4.1.1 jars
+ - use the POI 5.2.0 jars
  - switch NEWS to markdown
 
 ## Changes in version 0.8.0 (released 2015-11-29)
