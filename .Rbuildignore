@@ -6,3 +6,4 @@ README.md
 ^xlsxjars\.Rcheck$
 ^xlsxjars.*\.tar\.gz$
 ^xlsxjars.*\.tgz$
+^\.github$
