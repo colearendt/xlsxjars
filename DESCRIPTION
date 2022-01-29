@@ -16,7 +16,7 @@ Authors@R:
              role = c("ctb", "cph"),
              comment = "Apache POI, Apache XMLBeans"))
 Description: The xlsxjars package collects all the external jars
-    required for the xlsx package. This release corresponds to POI 4.1.1.
+    required for the xlsx package. This release corresponds to POI 5.2.0.
 License: GPL-3
 Imports: 
     rJava
