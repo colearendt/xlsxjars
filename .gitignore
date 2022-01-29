@@ -4,3 +4,4 @@ xlsxjars.Rcheck/
 xlsxjars*.tar.gz
 xlsxjars*.tgz
 project.Rproj
+tmp/
