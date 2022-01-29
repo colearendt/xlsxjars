@@ -27,8 +27,16 @@ tar -xzvf poi-bin-5.2.0-20220106.tgz
 
 - remove the old jar files
 - commit the new ones
+- bump the version to use `dev` (i.e. `usethis::use_dev_version()`)
+- Upgrade Apache POI version in `DESCRIPTION` and `NEWS.md`
 - push the branch
 - go test `xlsx`!
+
+## See Also
+
+- [CONTRIBUTING overview](./.github/CONTRIBUTING.md)
+- [Code of Conduct](./CODE_OF_CONDUCT.md)
+- [Support](./SUPPORT.md)
 
 ## Resources
 
@@ -57,3 +65,4 @@ from the following project websites:
   
 
 See also associated copyright information in inst/COPYRIGHTS.
+
