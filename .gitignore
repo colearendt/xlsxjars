@@ -1,1 +1,7 @@
 .Rhistory
+.Rproj.user
+xlsxjars.Rcheck/
+xlsxjars*.tar.gz
+xlsxjars*.tgz
+project.Rproj
+tmp/
