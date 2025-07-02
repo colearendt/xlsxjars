@@ -1,0 +1,23 @@
+# Basic .gitattributes for R packages
+# Ensure Unix line endings for shell scripts and R files
+*.R text eol=lf
+*.r text eol=lf
+*.Rmd text eol=lf
+*.Rnw text eol=lf
+*.md text eol=lf
+*.sh text eol=lf
+
+# Windows line endings for batch files
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Binary files
+*.jar binary
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.zip binary
+*.tar.gz binary

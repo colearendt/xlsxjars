@@ -13,7 +13,7 @@
   R development, the storage footprint on CRAN is reduced.
 
   The Java library comes from the Apache project, see
-  \url{http://poi.apache.org/index.html} for License and Copyright of
+  \url{https://poi.apache.org/index.html} for License and Copyright of
   this piece of software.  The POI Apache project provides a Java API to
   Microsoft Documents (Excel, Word, PowerPoint, Outlook, Visio, etc.)
   By using the \code{rJava} package that links \R and Java, we can use
@@ -40,10 +40,10 @@ Maintainer: Adrian A. Dragulescu <adrian.dragulescu@gmail.com>
 }
 \references{
   Apache POI project for Microsoft Excel format:
-  \url{http://poi.apache.org/spreadsheet/index.html}.
+  \url{https://poi.apache.org/components/spreadsheet/index.html}.
   
   The Java Doc detailing the classes:
-  \url{http://poi.apache.org/apidocs/index.html}.
+  \url{https://poi.apache.org/apidocs/index.html}.
 
 }
 \keyword{ package }
