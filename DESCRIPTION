@@ -1,6 +1,6 @@
 Package: xlsxjars
 Type: Package
-Title: Package required POI jars for the xlsx package
+Title: Package Required POI Jars for the xlsx Package
 Version: 0.9.0
 Date: 2025-07-02
 Depends: rJava
