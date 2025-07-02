@@ -13,7 +13,7 @@ test_that("Package metadata is correct", {
   desc <- packageDescription("xlsxjars")
   
   expect_equal(desc$Package, "xlsxjars")
-  expect_match(desc$Title, "POI jars")
+  expect_match(desc$Title, "POI Jars")
   expect_equal(desc$License, "GPL-3")
   expect_match(desc$Description, "xlsxjars package")
 })
