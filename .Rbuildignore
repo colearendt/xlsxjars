@@ -1,3 +1,11 @@
+^renv$
+^renv\.lock$
 inst/make.package.R
 .gitinit
 README.md
+.envrc
+.gitignore
+.Rprofile
+.Renviron
+..Rcheck
+.Rhistory
